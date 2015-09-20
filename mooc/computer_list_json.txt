@@ -1,0 +1,60 @@
+{
+    "status": 1,
+    "data": [
+        {
+            "title": "Web开发基础",
+            "picSmall": "http://eiyou.us/mooc/pic/Web.png",
+            "content": "HTML/CSS/JavaScript等Web开发技术入门",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        },
+        {
+            "title": "数字逻辑电路",
+            "picSmall": "http://eiyou.us/mooc/pic/DigitalCircuits.jpg",
+            "content": "现代计算机的物理实现",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        },
+        {
+            "title": "数据库原理与应用",
+            "picSmall": "http://eiyou.us/mooc/pic/DataBase.jpg",
+            "content": "大数据时代必备技能",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        },
+        {
+            "title": "软件工程导论",
+            "picSmall": "http://eiyou.us/mooc/pic/SoftwareEngineering.jpg",
+            "content": "高级软件开发者的思想源泉",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        },
+        {
+            "title": "离散数学",
+            "picSmall": "http://eiyou.us/mooc/pic/DiscreteMathematics.jpg",
+            "content": "计算机理论的数学基础",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        },
+        {
+            "title": "平面设计与动画",
+            "picSmall": "http://eiyou.us/mooc/pic/GraphicDesign.jpg",
+            "content": "数字时代的艺术",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        },
+        {
+            "title": "数据结构",
+            "picSmall": "http://eiyou.us/mooc/pic/DataStructure.jpg",
+            "content": "程序设计的理论基础",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        },
+        {
+            "title": "大学英语",
+            "picSmall": "http://eiyou.us/mooc/pic/English.jpg",
+            "content": "大学必修课程",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        },
+        {
+            "title": "大学英语视听说",
+            "picSmall": "http://eiyou.us/mooc/pic/EnglishAudio.jpg",
+            "content": "大学英语课程实践",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        }
+    ],
+    "msg": "成功"
+}

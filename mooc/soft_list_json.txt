@@ -1,0 +1,48 @@
+{
+    "status": 1,
+    "data": [
+        {
+            "title": "Java高级开发",
+            "picSmall": "http://eiyou.us/mooc/pic/Java.jpg",
+            "content": "Struts2+Spring+Hibernate高级开发框架",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        },
+        {
+            "title": "计算机网络基础与实践",
+            "picSmall": "http://eiyou.us/mooc/pic/Network.jpg",
+            "content": "通往web高级开发的必经之路",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        },
+        {
+            "title": "Web开发基础",
+            "picSmall": "http://eiyou.us/mooc/pic/Web.png",
+            "content": "HTML/CSS/JavaScript等Web开发技术入门",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        },
+        {
+            "title": "数字逻辑电路",
+            "picSmall": "http://eiyou.us/mooc/pic/DigitalCircuits.jpg",
+            "content": "现代计算机的物理实现",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        },
+        {
+            "title": "数据库原理与应用",
+            "picSmall": "http://eiyou.us/mooc/pic/DataBase.jpg",
+            "content": "大数据时代必备技能",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        },
+        {
+            "title": "大学英语",
+            "picSmall": "http://eiyou.us/mooc/pic/English.jpg",
+            "content": "大学必修课程",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        },
+        {
+            "title": "大学英语视听说",
+            "picSmall": "http://eiyou.us/mooc/pic/EnglishAudio.jpg",
+            "content": "大学英语课程实践",
+            "video": "http://eiyou.us/mooc/video/77.mp4"
+        }
+    ],
+    "msg": "成功"
+}
